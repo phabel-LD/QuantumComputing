@@ -1,0 +1,207 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# PyInstaller
+*.manifest
+*.spec
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+.hypothesis/
+.pytest_cache/
+cover/
+
+# Translations
+*.mo
+*.pot
+
+# Django stuff:
+*.log
+local_settings.py
+db.sqlite3
+db.sqlite3-journal
+
+# Flask stuff:
+instance/
+.webassets-cache
+
+# Scrapy stuff:
+.scrapy
+
+# Sphinx documentation
+docs/_build/
+
+# PyBuilder
+.pybuilder/
+target/
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+*/.ipynb_checkpoints/
+*/*/.ipynb_checkpoints/
+
+# Notebook exported as HTML, PDF, etc.
+*.html
+*.pdf
+
+# Data files (CSV, Excel, JSON, etc.)
+*.csv
+*.tsv
+*.xlsx
+*.xls
+*.json
+*.jsonl
+*.pickle
+*.pkl
+*.pklz
+*.h5
+*.hdf5
+*.db
+*.sqlite
+*.sqlite3
+
+# Image files (generated plots)
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.bmp
+*.tiff
+*.svg
+
+# Model checkpoints and weights (not typical for Qiskit, but just in case)
+*.pth
+*.pt
+*.ckpt
+*.h5
+*.pb
+*.onnx
+*.model
+*.weights
+*.bin
+*.safetensors
+
+# Environment files
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+pythonenv*
+
+# Virtual environments
+venv/
+.venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# Conda environments
+*.yml
+*.yaml
+environment.yml
+environment.yaml
+*.lock
+
+# IDE / Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+Desktop.ini
+*.bak
+*.tmp
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Logs
+logs/
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+*.cache
+*.swp
+*.swo
+
+# Compiled Python files
+*.pyc
+*.pyo
+*.pyd
+
+# Export / output directories
+output/
+exports/
+generated/
+checkpoints/
+checkpoints_*/
+models/
+runs/
+logs/
+
+# Qiskit specific
+.qiskit/
+qiskit_jobs/
+*.qasm
+*.qobj
+
+# Generated images from notebooks
+*.png
+*.jpg
+*.jpeg
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
